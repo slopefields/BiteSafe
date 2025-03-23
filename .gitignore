@@ -1,0 +1,27 @@
+# Node Modules
+/node_modules
+
+# Expo Build Artifacts
+/.expo
+/dist
+/build
+
+# Environment Variables
+.env
+
+# VS Code Settings
+.vscode/
+
+# Package Lock Files (optional, if you use yarn)
+package-lock.json
+yarn.lock
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
